@@ -1,7 +1,7 @@
 
 package tareagrupo6;
 
-public class Doctor {
+public class Doctor extends Persona {
      private String especialidad;
 
     public String getEspecialidad() {
