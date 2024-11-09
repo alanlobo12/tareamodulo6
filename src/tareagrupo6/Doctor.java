@@ -1,8 +1,8 @@
-
 package tareagrupo6;
 
 public class Doctor extends Persona {
-     private String especialidad;
+
+    private String especialidad;
 
     public String getEspecialidad() {
         return especialidad;
